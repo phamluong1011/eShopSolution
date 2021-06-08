@@ -1,8 +1,5 @@
-﻿# BRO HAVE YOU WATCH THIS ?
-## TECHNOLOGIES
-- ASP.NET CORE 3.1	
-- Entity  Framework Core 3.1
-## Zawarudo
-https://ditmewibu.com
-## How to bash non-prime vào mặt
-## How to contribute
+﻿# ABAC CAVAVAVAV
+## AKGAJGIQJWGOJGQOWIJGQOI
+-ASP.NET Core 3.1
+-Entity  Framework Core 3.1
+## How to do this and that
